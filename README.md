@@ -15,4 +15,4 @@ document.body.appendChild($dom);</br>
 let $dom=document.createElement("script");</br>
 $dom.setAttribute("src", "https://cdn.jsdelivr.net/gh/ywjang5/zjy@main/%E6%99%BA%E6%85%A7%E8%81%8C%E6%95%99%E5%88%B7%E8%AF%BE%E8%84%9A%E6%9C%AC2.js");</br>
 document.body.appendChild($dom);</br>
-https://github.com/ywjang5/zjy/blob/main/%E6%99%BA%E6%85%A7%E8%81%8C%E6%95%99%E5%88%B7%E8%AF%BE%E8%84%9A%E6%9C%AC2.js
+
