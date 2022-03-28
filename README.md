@@ -13,5 +13,5 @@ document.body.appendChild($dom);</br>
 ### 引用代码为：
 
 let $dom=document.createElement("script");</br>
-$dom.setAttribute("src", "https://cdn.jsdelivr.net/gh/hsjzhcq/hcqHome@main/main/app.js");</br>
+$dom.setAttribute("src", "https://cdn.jsdelivr.net/gh/ywjang5/zjy@main/智慧职教刷课脚本2.js");</br>
 document.body.appendChild($dom);</br>
