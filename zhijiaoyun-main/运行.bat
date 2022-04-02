@@ -1,2 +1,3 @@
-@python3.exe  C:\Users\杨万军\Downloads\Compressed\zhijiaoyun-main\zhijiaoyun-main\main.py %*
+@python.exe  绝对路径\main.py %*
 @pause
+//带有中文需要将编码改为ANSI
