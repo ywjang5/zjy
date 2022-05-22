@@ -12,7 +12,7 @@ document.body.appendChild($dom);</br>
 ### 引用代码：
 
 let $dom=document.createElement("script");</br>
-$dom.setAttribute("src", "https://gcore.jsdelivr.net/gh/ywjang5/zjy@main/智慧职教刷课脚本2.js");</br>
+$dom.setAttribute("src", "https://gcore.jsdelivr.net/gh/ywjang5/zjy@main/智慧职教刷课脚本3.js");</br>
 document.body.appendChild($dom);</br>
 
 ## 3.0版本
