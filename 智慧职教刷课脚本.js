@@ -552,7 +552,7 @@ overflow: hidden;
             <div class="menu-item">
                 <span>视频修改时间</span>
                 <div>
-                    [视频当前进度+<input type="text" id="video-time-set" data-default="20" placeholder="12-22" value="20">秒]
+                    [视频当前进度+<input type="text" id="video-time-set" data-default="20" placeholder="12-22" value="15">秒]
                 </div>
             </div>
             <div class="menu-item">
